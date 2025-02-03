@@ -1,2 +1,32 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Ambientes virtuais
+venv/
+kivy_venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Dependências instaladas via pip
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build e artefatos
+build/
+dist/
+*.spec
+
+# Arquivos gerados pelo Kivy
+.kivy/
+.kivy_config/
