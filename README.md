@@ -1,6 +1,6 @@
-# Pong Game usando Kivy
+# Estudo de Kivy 
 
-Bem-vindo ao meu repositório de aprendizado! Aqui estou seguindo o tutorial de Pong do Kivy para aprender mais sobre desenvolvimento de aplicações interativas com Python e Kivy.
+Este repositório contém pequenos projetos e experimentos com Kivy, abordando diferentes aspectos do desenvolvimento de interfaces gráficas com Python.
 
 ## Sobre o Tutorial
 
@@ -22,18 +22,27 @@ Antes de começar, garanta que tem um ambiente Kivy configurado:
 
 1. Clone este repositório:
    ```bash
-   https://github.com/nina0-0nina/Pong-Game_KIVI-Tutorial.git
+   https://github.com/nina0-0nina/KIVI-Tutorial.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd Pong-Game_KIVI-Tutorial
+   cd KIVI-Tutorial
    ```
-3. Execute o jogo Pong:
+3. Acesse o diretório App:
    ```bash
-   python main.py
+   cd App
+   ```
+4. Execute as aplicações:
+   ```bash
+   python3 Hello_world.py
+   python3 PaintApp.py
+   python3 UserName.py
    ```
    
 ## Referências
 
 - [Tutorial Oficial do Pong - Kivy](https://kivy.org/doc/stable/tutorials/pong.html)
 - [Documentação do Kivy](https://kivy.org/doc/stable/gettingstarted/intro.html)
+- [Aplicativo de pintar - Kivy](https://kivy.org/doc/stable/tutorials/firstwidget.html)
+- [Kivy básico](https://kivy.org/doc/stable/guide/basic.html#quickstart)
+- [Kivy - Linux](https://kivy.org/doc/stable/installation/installation-linux.html#installation-linux)
