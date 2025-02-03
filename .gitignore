@@ -4,7 +4,7 @@ kivy_venv/
 *.pyc
 *.pyo
 __pycache__/
-/kivy-deps-build/
+# /kivy-deps-build/
 
 # Logs e arquivos temporários
 *.log
